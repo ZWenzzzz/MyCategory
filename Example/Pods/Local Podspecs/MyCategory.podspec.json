@@ -1,0 +1,29 @@
+{
+  "name": "MyCategory",
+  "version": "0.1.0",
+  "summary": "个人信息组件中间件",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZWenzzzz/MyCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Wen": "zhangwengcd@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ZWenzzzz/MyCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MyCategory/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
